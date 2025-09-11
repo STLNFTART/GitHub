@@ -10,7 +10,7 @@ Solution
 • Modular: physics engines, temporal processors, swarm controllers.
 • Cross-domain: drones, vehicles, cryptographic trading, BCI/IoT.
 Core Technology
-• Proprietary equations (∆x(t), Θ(τ), λ-optimization, recursive intent).
+• Proprietary equations , λ-optimization, recursive intent).
 • Integration with existing engines (Carla, PyBullet, Unity).
 • Quantum-resistant cryptographic kernel for secure telemetry.
 • Metrics: reproducibility, scalability, adaptive weighting.
