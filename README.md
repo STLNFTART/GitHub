@@ -1,4 +1,4 @@
-Primal Logic: Integrated Simulation Design
+Integrated Simulation Design
 Framework
 Next-Gen Algorithmic Infrastructure for Autonomous Systems, Defense, and Finance
 Problem Statement
